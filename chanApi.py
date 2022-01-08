@@ -1,4 +1,4 @@
-# A python module for 4chan navigation
+# A python module for 4channel navigation
 import requests
 import re
 import html
